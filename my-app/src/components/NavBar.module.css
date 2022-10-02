@@ -1,0 +1,38 @@
+.navbar {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 2rem;
+  border-bottom: 0.2rem solid #555;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.joke-blog-title {
+  font-size: 3.8rem;
+  color: #f1356d;
+}
+
+.pages {
+  font-size: 2.1rem;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.pages a {
+  text-decoration: none;
+}
+
+.create-btn {
+  background-color: #f1356d;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.3rem;
+
+  transition: background-color 0.3s;
+}
+
+.create-btn:hover {
+  background-color: #60152c;
+}
