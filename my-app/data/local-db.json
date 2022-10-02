@@ -1,0 +1,22 @@
+{
+  "jokes": [
+    {
+      "title": "Switzerland",
+      "body": "What's the best thing about Switzerland? --- I don't know, but the flag is a big plus",
+      "author": "Mr.Boring",
+      "id": 1
+    },
+    {
+      "title": "New Word",
+      "body": "I invented a new word. --- Plagiarism",
+      "author": "Chandler",
+      "id": 2
+    },
+    {
+      "title": "Scientists",
+      "body": "Why don’t scientists trust atoms? --- Because they make up everything.",
+      "author": "Ross",
+      "id": 3
+    }
+  ]
+}
